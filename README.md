@@ -5,6 +5,9 @@ This is a newcomer operating system which is named by my personal Chinese name a
 > ZHY-OS is my self-made operating system which is based on Linux 0.11 (a simple implement of Linux system) . According to it, it's a very great way to learn basic knowledges of OS not limited to figure out the definatioin of operating system. 
 
 
+![展示效果图-引导部分完成](./image/1.png)
+
+
 ## 目录
 
 - [上手指南](#上手指南)
